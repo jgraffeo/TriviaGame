@@ -1,0 +1,26 @@
+body {
+    background: white;
+    font: black;
+    background-image: url(../images/musickey.png);
+    background-position: right;
+    height: 100%;
+}
+
+
+#color {
+    font: white;
+}
+
+#header {
+    font: white;
+}
+
+img {
+    border-color: white;
+}
+
+#wrapper {
+    text-align: center;
+    font: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
